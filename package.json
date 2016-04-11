@@ -1,0 +1,15 @@
+{
+  "name": "lowell",
+  "version": "1.0.0",
+  "description": "quick gulp configuration for Lowell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Frankish",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.11.2",
+    "gulp": "^3.9.1"
+  }
+}
